@@ -21,9 +21,9 @@ Atualmente focado em desenvolvimento web e explorando novas ferramentas.
 
 ## 📌 Projetos em destaque
 
-- [Meu Portfólio](https://github.com/RobertRas/portfolio) – Site pessoal mostrando meus trabalhos.
-- [Clone de Netflix](https://github.com/RobertRas/netflix-clone) – Projeto front-end recriando a interface da Netflix.
-- [API de Tarefas](https://github.com/RobertRas/task-api) – API REST para gerenciamento de tarefas.
+- [Game do Detona Ralph](https://robertras.github.io/Detona-Ralph/) 
+- [Jogo da memória](https://robertras.github.io/GameMemory/) 
+- [Tocador piano](https://robertras.github.io/piano/) 
 
 ---
 
