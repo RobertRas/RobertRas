@@ -1,29 +1,48 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+# 👋 Olá, eu sou o Robert!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+Sou apaixonado por tecnologia, programação e sempre em busca de aprender algo novo.  
+Atualmente focado em desenvolvimento web e explorando novas ferramentas.
+
+---
+
+## 🚀 Tecnologias que uso
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
-  
-  
-  
+  <img align="center" alt="Robert-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Robert-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Robert-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Robert-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Robert-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Robert-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   
 </div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com/robert.saints" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/spider4629" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:araujorobert302@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/robert-araújo-dos-santos-b46886221" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+---
+
+## 📌 Projetos em destaque
+
+- [Meu Portfólio](https://github.com/RobertRas/portfolio) – Site pessoal mostrando meus trabalhos.
+- [Clone de Netflix](https://github.com/RobertRas/netflix-clone) – Projeto front-end recriando a interface da Netflix.
+- [API de Tarefas](https://github.com/RobertRas/task-api) – API REST para gerenciamento de tarefas.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+
+![Robert Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RobertRas&theme=dracula)
+![Robert Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RobertRas&theme=dracula)
+![Robert Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RobertRas&theme=dracula)
+
+
+---
+
+## 📫 Como me encontrar
+
+- 💼 [LinkedIn](www.linkedin.com/in/robert-araújo-dos-santos-b46886221)
+- 📧 araujorobert302@email.com
+- 🌐 [Portfólio](https://seu-portfolio.com)
+
+---
+
+✨ *“A tecnologia move o mundo, e eu quero fazer parte dessa jornada.”*
