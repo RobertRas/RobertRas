@@ -41,7 +41,7 @@ Atualmente focado em desenvolvimento web e explorando novas ferramentas.
 
 - 💼 [LinkedIn](www.linkedin.com/in/robert-araújo-dos-santos-b46886221)
 - 📧 araujorobert302@email.com
-- 🌐 [Portfólio](https://github.com/RasTech-Developer)
+- 🌐 [Portfólio - Analista de Dados](https://github.com/RasTech-Developer)
 
 ---
 
